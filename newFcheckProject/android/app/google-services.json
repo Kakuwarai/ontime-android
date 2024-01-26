@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1063590114517",
+    "project_id": "ontime-d9a38",
+    "storage_bucket": "ontime-d9a38.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063590114517:android:246bf55635a5c2d0bede5c",
+        "android_client_info": {
+          "package_name": "com.ontimemobile.newfcheckproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1063590114517-k6leoud5rs1ntai18s00rj5b842ot11f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiqOd_LV5tPD1MXIj9ZiWoxYvP_KLwn8g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1063590114517-k6leoud5rs1ntai18s00rj5b842ot11f.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1063590114517-vhppoe005ekv68c2njn74pgb2sebenmi.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ontimemobile3.newfcheckproject"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
